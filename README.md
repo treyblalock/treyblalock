@@ -1,16 +1,15 @@
-## Hi there 👋
+# Trey Blalock
 
-<!--
-**treyblalock/treyblalock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CISO • Security Researcher • Speaker • Penetration Tester**
 
-Here are some ideas to get you started:
+I work in cybersecurity with a focus on penetration testing, threat intelligence, security leadership, and the practical security implications of emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current research, presentations, projects, and professional background can be found here:
+
+### [Trey Blalock — Security Research, Talks & Projects](https://www.verificationlabs.com/trey.html)
+
+---
+
+### Source Code
+
+Source code associated with my research, tools, presentations, and other projects can be found on the respective **project page or presentation download page**.
