@@ -7,6 +7,8 @@ I work in cybersecurity with a focus on penetration testing, threat intelligence
 My current research, presentations, projects, and professional background can be found here:
 
 ### [Trey Blalock — Security Research, Talks & Projects](https://www.verificationlabs.com/trey.html)
+ 
+💼 [LinkedIn](https://www.linkedin.com/in/treyblalock/)
 
 ---
 
